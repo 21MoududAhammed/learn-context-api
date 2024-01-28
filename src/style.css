@@ -52,4 +52,33 @@
     border-radius: 5px;
     border: 1px solid #aaa;
   }
+
+  /* for components 2  */
+
+  .family{
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 30px;
+  }
+  .parent{
+    border: 2px solid rgb(23, 22, 22);
+    border-radius: 10px;
+    padding: 30px;
+  }
+  .child{
+    border: 2px solid rgb(49, 1, 1);
+    border-radius: 10px;
+    padding: 30px;
+  }
+  .grand-son{
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 30px;
+  }
+  .grand-daughter{
+    border: 2px solid violet;
+    border-radius: 10px;
+    padding: 30px;
+  }
+  
   
